@@ -8,6 +8,9 @@ Predicting RentSafeTO: A Machine Learning Solution for Safer Housing Evaluation
 - Affiliatoin : brainStation
  ----
 
+ [![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/13Qr9iWzZfhB7dFX5eqfO355DM0JyJ3q3/view?usp=sharing)
+
+
 ## 1. Introduction
 
 **1) Introductio**<br>
