@@ -3,36 +3,9 @@
 ## About Project
 Predicting RentSafeTO: A Machine Learning Solution for Safer Housing Evaluation
 
-## Team
 - Author : Hyunjung Kim
 - Date : JUL 23, 2023 ~ Sep 9, 2023
 - Affiliatoin : brainStation
-
-## Index
-**1. Introduction**
- -  Introduction
- -  Big Idea
- -  Impact
-
-**2. RentSafeTO**
- - What is RentSafeTO (will contain when why who)
- - Evaluation Categories
- - Audits
- - Fine
-
-**3. Analytical data**
- - Data Source
- - Data Shape Analysis
- - Data thresholds
-
-**4. Models**
- - Model Methods
- - Model Conclusion
-
-**5. Conclusions**
- - Conclusion
- - Threshholds
-
  ----
 
 ## 1. Introduction
